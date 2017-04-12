@@ -1,0 +1,16 @@
+﻿生成启动时间为 2017/4/12 17:18:28。
+     1>项目“D:\13大一下学期\C语言\日常积累\loop statement\loop statement\loop statement.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\13大一下学期\C语言\第一个安装软件\安装产生的文件\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt "任务03_3 小球落地.c"
+         任务03_3 小球落地.c
+       Link:
+         D:\13大一下学期\C语言\第一个安装软件\安装产生的文件\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\13大一下学期\C语言\日常积累\loop statement\Debug\loop statement.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\13大一下学期\C语言\日常积累\loop statement\Debug\loop statement.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\13大一下学期\C语言\日常积累\loop statement\Debug\loop statement.lib" /MACHINE:X86 "Debug\任务03_1 数字探秘.obj"
+         "Debug\任务03_2 最小公倍数.obj"
+         "Debug\任务03_3 小球落地.obj"
+         "Debug\源.obj"
+         loop statement.vcxproj -> D:\13大一下学期\C语言\日常积累\loop statement\Debug\loop statement.exe
+     1>已完成生成项目“D:\13大一下学期\C语言\日常积累\loop statement\loop statement\loop statement.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.11

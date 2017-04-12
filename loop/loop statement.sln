@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "loop statement", "loop statement\loop statement.vcxproj", "{0632FBC7-2EF9-4D1F-8C2A-3400EBC4C827}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.17运算符与表达式", "..\..\第一个安装软件\3.17运算符与表达式\3.17运算符与表达式\3.17运算符与表达式.vcxproj", "{A5932FB6-A2B6-49FD-8DDF-03A1604BF86E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0632FBC7-2EF9-4D1F-8C2A-3400EBC4C827}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0632FBC7-2EF9-4D1F-8C2A-3400EBC4C827}.Debug|Win32.Build.0 = Debug|Win32
+		{0632FBC7-2EF9-4D1F-8C2A-3400EBC4C827}.Release|Win32.ActiveCfg = Release|Win32
+		{0632FBC7-2EF9-4D1F-8C2A-3400EBC4C827}.Release|Win32.Build.0 = Release|Win32
+		{A5932FB6-A2B6-49FD-8DDF-03A1604BF86E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A5932FB6-A2B6-49FD-8DDF-03A1604BF86E}.Debug|Win32.Build.0 = Debug|Win32
+		{A5932FB6-A2B6-49FD-8DDF-03A1604BF86E}.Release|Win32.ActiveCfg = Release|Win32
+		{A5932FB6-A2B6-49FD-8DDF-03A1604BF86E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
